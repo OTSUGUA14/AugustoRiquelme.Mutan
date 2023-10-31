@@ -64,7 +64,7 @@ public class reclutar{
         //Crear array multidimensional de los caracteres del ADN
         char [][] dniArray=new char[6][6];
         for (int i=0 ;i<6;i++){
-            //Devuelve una cadena de caractres
+           
             dniArray[i]=dna[i].toCharArray();
             
         }
